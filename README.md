@@ -1,5 +1,5 @@
-# 💫 About Me:
-## 👋 About Me<br><br>I'm a student on a never-ending quest to turn "I have no idea what I'm doing" into "wait, it actually works?! 🎉"<br><br>- 🎓 Currently studying **[your field/major]**<br>- 🌱 Learning **[language/framework you're picking up]**<br>- 🛠️ Building random projects to break things and (eventually) fix them<br>- 🐛 99% of my commits are "fix bug" followed by another "fix bug"<br>- 💬 Ask me about **[a topic you like]** — I will not shut up about it<br>- 📫 Reach me at **[email/socials]**<br>
+
+## 👋 About Me<br><br>I'm a student on a never-ending quest to turn "I have no idea what I'm doing" into "wait, it actually works?! 🎉"<br><br>- 🎓 Currently studying **[BS INFO TECH]**<br>- 🌱 Learning **[Python,Javascript,Mysql, and many more programming languages]**<br>- 🛠️ Building random projects to break things and (eventually) fix them<br>- 🐛 70% of my commits are "fix bug" followed by another "fix bug"<br>- 💬 Ask me about **[games, movies and any coding essentials skills]** — I will listen to you're opinions and stories<br>- 📫 Reach me at **[seanivandoks@gmail.com]**<br>
 
 
 ## 🌐 Socials:
@@ -15,7 +15,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=seanivangimeno-wvsulc&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
